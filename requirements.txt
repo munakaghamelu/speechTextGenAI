@@ -1,0 +1,4 @@
+pyenchant
+regex
+deep_translator
+elevenlabs
